@@ -5,7 +5,7 @@
 ![](https://github.com/TOxaREY/Answers_Objective-C/blob/master/image/Task_1.png)
 
 
-[Ответ 1](https://github.com/TOxaREY/Answers_Objective-C/blob/master/task/Task_1/Task_1/main.m)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/task/Task_1/Task_1/main.m)
 
 ---
 
@@ -20,7 +20,7 @@
 Постарайтесь написать короткое и читаемое решение.
 
 
-[Ответ 2](https://github.com/TOxaREY/Answers_Objective-C/blob/master/task/Task_2/Task_2/main.m)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/task/Task_2/Task_2/main.m)
 
 ---
 
@@ -36,7 +36,7 @@
 * 0 <= k <= 1000000
 * 0 <= arr[i] <= 1000000
 
-[Ответ 3](https://github.com/TOxaREY/Answers_Objective-C/blob/master/task/Task_3/Task_3/main.m)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/task/Task_3/Task_3/main.m)
 
 ---
 
