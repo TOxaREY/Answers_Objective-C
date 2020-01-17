@@ -116,7 +116,7 @@
 
 ○ Полиморфизм
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/QA_9.md)
 
 ---
 
@@ -135,7 +135,7 @@
 
 □ Plain-Text
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/QA_10.md)
 
 ---
 
