@@ -50,15 +50,15 @@
 #### Вопрос-Ответ 5
 Выберите описание свойств bounds и frame в классе UIView
 
-□ Bounds описывает прямоугольник относительно собственной системе координат
+□ Bounds описывает прямоугольник относительно собственной системы координат
 
 □ Bounds описывает прямоугольник относительно superview системы координат
 
-□ Frame описывает прямоугольник относительно собственной системе координат
+□ Frame описывает прямоугольник относительно собственной системы координат
 
 □ Frame описывает прямоугольник относительно superview системы координат
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/QA_5.md)
 
 ---
 
@@ -71,7 +71,7 @@
 
 ○ добавления новых методов без наследования к существующим классам в runtime
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/QA_6.md)
 
 ---
 
@@ -90,7 +90,7 @@
 
 □ Hash таблица
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/QA_7.md)
 
 ---
 
@@ -103,7 +103,7 @@
 
 ○ Cитуация, в которой остается объект в памяти и нет ссылок на него и память не может быть освобождена
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/QA_8.md)
 
 ---
 
