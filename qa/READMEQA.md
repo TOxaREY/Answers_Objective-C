@@ -245,7 +245,7 @@
 
 ○ 0, 0
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/QA_16/QA_16/ViewController.m)
 
 ---
 
@@ -277,7 +277,7 @@
 
 ○ 231
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/QA_18/QA_18/ViewController.m)
 
 ---
 
