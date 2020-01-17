@@ -152,7 +152,7 @@
 
 ○ 9
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/QA_11/QA_11/main.m)
 
 ---
 
@@ -171,7 +171,7 @@
 
 ○ deadlock
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/QA_12/QA_12/ViewController.m)
 
 ---
 
@@ -186,7 +186,7 @@
 
 ○ Только NSArray, NSDictionary
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/QA_13.md)
 
 ---
 
@@ -207,7 +207,7 @@
 
 □ NSCoreDataManager
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/QA_14.md)
 
 ---
 
@@ -228,7 +228,7 @@
 
 □ NSMallocBlock
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/QA_15.md)
 
 ---
 
@@ -258,7 +258,7 @@
 
 ○ KVO
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/QA_17.md)
 
 ---
 
@@ -290,7 +290,7 @@
 
 ○ Преобразовать self к weakSelf перед блоком, внутри блока преобразовать к strongSelf и проверить self на существование
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/QA_19.md)
 
 ---
 
@@ -303,6 +303,6 @@
 
 ○ stack
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/QA_20.md)
 
 ---
