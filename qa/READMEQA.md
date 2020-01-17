@@ -1,6 +1,3 @@
-# Answers Objective-C
-#### январь 2020
----
 #### Вопрос-Ответ 1
 Что будет выведено в консоль при выполнении следующего кода?
 
@@ -22,7 +19,7 @@
 
 ○ Сразу после applicationDidFinishLaunching
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/QA_2.md)
 
 ---
 
@@ -51,7 +48,7 @@
 ---
 
 #### Вопрос-Ответ 5
-Выберите описание свойств bounds и frame в классе UlView
+Выберите описание свойств bounds и frame в классе UIView
 
 □ Bounds описывает прямоугольник относительно собственной системе координат
 
@@ -253,7 +250,7 @@
 ---
 
 #### Вопрос-Ответ 17
-Каким инструментом следует пользоваться для отслеживания изменений данных в CoreData при отображении в UlTableView?
+Каким инструментом следует пользоваться для отслеживания изменений данных в CoreData при отображении в UITableView?
 
 ○ NSFetchedResultsController
 
