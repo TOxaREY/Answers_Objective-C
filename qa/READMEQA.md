@@ -32,7 +32,7 @@
 
 ○ @property с таким атрибутом НЕ thread-safe, но гарантируется консистентность в момент чтения или записи из разных потоков
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/QA_3.md)
 
 ---
 
@@ -43,7 +43,7 @@
 
 ○ atomic
 
-[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/)
+[ОТВЕТ](https://github.com/TOxaREY/Answers_Objective-C/blob/master/qa/QA_4.md)
 
 ---
 
