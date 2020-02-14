@@ -6,4 +6,4 @@
 
 ○ nonatomic
 
-* atomic
+● atomic

@@ -41,7 +41,7 @@ int main(int argc, const char * argv[]) {
 
 ○ 11
 
-* 10
+● 10
 
 ○ 9
 */
