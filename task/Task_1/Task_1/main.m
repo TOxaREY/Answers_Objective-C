@@ -36,15 +36,15 @@ int main(int argc, const char * argv[]) {
     @autoreleasepool {
         IwuSkills *max = [IwuSkills new];
         NSArray *arr = @[@1, @1, @1, @1];
-        [max maxdiff:arr];
+        [max maxdiff:arr]; //0
         arr = @[@-1, @4, @10, @3, @-2];
-        [max maxdiff:arr];
+        [max maxdiff:arr]; //7
         arr = @[@10, @11, @13];
-        [max maxdiff:arr];
+        [max maxdiff:arr]; //2
         arr = @[@-2, @-2, @-2, @-2, @-2];
-        [max maxdiff:arr];
+        [max maxdiff:arr]; //0
         arr = @[@-1, @1, @-3, @-4];
-        [max maxdiff:arr];
+        [max maxdiff:arr]; //4
     }
     return 0;
 }

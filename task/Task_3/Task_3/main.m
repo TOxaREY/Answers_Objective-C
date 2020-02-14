@@ -55,13 +55,13 @@ int main(int argc, const char * argv[]) {
     @autoreleasepool {
         IwuSkills *pair = [IwuSkills new];
         NSArray *arr = @[@1, @5, @3, @4, @2];
-        [pair pairDifferenceCount:arr :3];
+        [pair pairDifferenceCount:arr :3]; //2
         arr = @[@8, @12, @16, @4, @0, @20];
-        [pair pairDifferenceCount:arr :4];
+        [pair pairDifferenceCount:arr :4]; //5
         arr = @[@1, @4, @3, @0, @2, @5, @7, @8, @9, @6];
-        [pair pairDifferenceCount:arr :3];
+        [pair pairDifferenceCount:arr :3]; //7
         arr = @[@4, @4, @4, @2, @2];
-        [pair pairDifferenceCount:arr :0];
+        [pair pairDifferenceCount:arr :0]; //2
     }
     return 0;
 }
