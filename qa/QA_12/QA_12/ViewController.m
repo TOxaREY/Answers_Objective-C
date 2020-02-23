@@ -16,12 +16,18 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    // 1 После async управление передается вызывающему потоку
     dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_BACKGROUND, 0), ^ {
+        // 3 п.1 вызван в параллельную очередь с приорететом бэкграунд
+        //поэтому при вызове очереди в главной очереди, она сработает раньше
         dispatch_sync(dispatch_get_main_queue(), ^ {
+            // 4 Выполнение 2
             NSLog(@"2");
         });
+        // 5 Выполнение 3
         NSLog(@"3");
     });
+    // 2 Вызывающий поток вызывает 1
     NSLog(@"1");
 }
 
